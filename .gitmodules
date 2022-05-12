@@ -1,0 +1,3 @@
+[submodule "scripts/types/ui"]
+	path = scripts/types/ui
+	url = https://github.com/mdisprgm/types-mojang-ui
